@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BeaconDweet</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">Searching...</string>
+    <string name="header">Identifying device...</string>
+    <string name="title_ranging">Searching for iBeacons</string>
+    <string name="title_not_ranging">An error occurred trying to find beacons</string>
+    <string name="device_id_checkbox">provide this device\'s id</string>
+
+</resources>
